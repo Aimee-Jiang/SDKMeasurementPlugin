@@ -1,0 +1,16 @@
+PODS:
+  - SDKMeasurementPlugin (0.1.0)
+
+DEPENDENCIES:
+  - SDKMeasurementPlugin (from `../`)
+
+EXTERNAL SOURCES:
+  SDKMeasurementPlugin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDKMeasurementPlugin: d33f98137c053e13507969cd3d005c6cf7740da8
+
+PODFILE CHECKSUM: 7232ef170da77208206436b71bf35dc321345373
+
+COCOAPODS: 1.5.0

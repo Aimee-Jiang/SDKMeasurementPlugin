@@ -1,0 +1,30 @@
+{
+  "name": "SDKMeasurementPlugin",
+  "version": "0.1.0",
+  "summary": "The plugin serves the publishers for measurement of continuous view-time and viewability.",
+  "description": "It's a light-weight SDK to provide measurement of continuous view-time and viewabilty instead of AN SDK without conflicts with Freewheel and DFP",
+  "libraries": "c++",
+  "homepage": "https://github.com/Aimee-Jiang/MyMeasurementPlugin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Weiwei Jiang": "weiweij@fb.com"
+  },
+  "source": {
+    "git": "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDKMeasurementPlugin/Classes/*.{h,m}",
+  "public_header_files": "SDKMeasurementPlugin/Classes/*.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "AVFoundation",
+    "AVKit"
+  ]
+}

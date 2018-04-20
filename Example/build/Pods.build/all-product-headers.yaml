@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/Pods_SDKMeasurementPlugin_Example.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SDKMeasurementPlugin_Example-umbrella.h",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/Pods/Target Support Files/Pods-SDKMeasurementPlugin_Example/Pods-SDKMeasurementPlugin_Example-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_SDKMeasurementPlugin_Example-Swift.h",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/Pods_SDKMeasurementPlugin_Example.framework/Headers/Pods_SDKMeasurementPlugin_Example-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/Pods_SDKMeasurementPlugin_Example.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Pods.build/Debug-iphonesimulator/Pods-SDKMeasurementPlugin_Example.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/SDKMeasurementPlugin/SDKMeasurementPlugin.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SDKMeasurementPlugin-Swift.h",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/SDKMeasurementPlugin/SDKMeasurementPlugin.framework/Headers/SDKMeasurementPlugin-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDKMeasurementPlugin-umbrella.h",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/Pods/Target Support Files/SDKMeasurementPlugin/SDKMeasurementPlugin-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Debug-iphonesimulator/SDKMeasurementPlugin/SDKMeasurementPlugin.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin/Example/build/Pods.build/Debug-iphonesimulator/SDKMeasurementPlugin.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

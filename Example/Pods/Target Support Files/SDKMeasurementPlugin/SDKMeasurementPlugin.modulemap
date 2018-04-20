@@ -1,0 +1,6 @@
+framework module SDKMeasurementPlugin {
+  umbrella header "SDKMeasurementPlugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
