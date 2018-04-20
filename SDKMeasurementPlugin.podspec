@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   
   s.ios.deployment_target = '8.0'
   
-  s.source_files = 'SDKMeasurementPlugin/Classes/*.{mm}'
+  s.source_files = 'SDKMeasurementPlugin/Classes/*.{h,m,mm}'
   
   s.public_header_files = 'SDKMeasurementPlugin/Classes/*.h'
   s.frameworks = 'UIKit', 'MapKit', 'AVFoundation', 'AVKit'
