@@ -27,3 +27,4 @@ Weiwei Jiang, weiweij@fb.com
 ## License
 
 SDKMeasurementPlugin is available under the MIT license. See the LICENSE file for more info.
+
