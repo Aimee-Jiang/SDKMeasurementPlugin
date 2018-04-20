@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SDKMeasurementPlugin'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'The plugin serves the publishers for measurement of continuous view-time and viewability.'
   
   # This description is used to generate tags and improve search results.
@@ -20,10 +20,10 @@ Pod::Spec.new do |s|
   s.description      = 'It\'s a light-weight SDK to provide measurement of continuous view-time and viewabilty independent from AN SDK without conflicts with Freewheel and DFP'
   
   s.libraries = 'c++'
-  s.homepage         = 'https://github.com/Aimee-Jiang/MyMeasurementPlugin'
+  s.homepage         = 'https://github.com/Aimee-Jiang/SDKMeasurementPlugin.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Weiwei Jiang' => 'weiweij@fb.com' }
-  s.source           = { :git => '/Users/weiweij/fbsource/fbobjc/ios-sdk/ads/src/SDKMeasurementPlugin', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Aimee-Jiang/SDKMeasurementPlugin.git', :tag => s.version.to_s }
   
   s.ios.deployment_target = '8.0'
   
